@@ -28,5 +28,5 @@
 ***
 
 **Если проект не открывается, его можно просмотреть по ссылке:**  
-    
+[`nbviewer`](https://nbviewer.org/github/mike2023-ml/Portfolio/blob/main/Gold%20recovery/Восстановление%20золота.ipynb#Функция-для-вычисления-итоговой-sMAPE)    
 </div>
