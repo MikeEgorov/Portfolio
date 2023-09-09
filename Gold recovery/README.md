@@ -1,5 +1,5 @@
 ## "Восстановление золота из золотосодержащей руды"
-[`HTML`](https://github.com/mike2023-ml) [`ipynb`](https://github.com/mike2023-ml)  
+[`HTML`](https://github.com/mike2023-ml)[`ipynb`](https://github.com/mike2023-ml)  
 
 **Цели проекта:**
 - предсказать коэффициент восстановления золота из золотосодержащей руды.
