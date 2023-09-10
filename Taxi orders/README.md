@@ -27,7 +27,7 @@
 ***
     
 **Инструменты:**  
-`Python` `SQL`
+`Python` `LightGBM` `Pandas`
 
 ***
 
