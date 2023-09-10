@@ -23,7 +23,7 @@
 ***
     
 **Инструменты:**  
-`Python` `SQL`
+`Python` `Pandas` `NumPy`
 
 ***
 
