@@ -12,7 +12,8 @@
 ***
     
 **Инструменты:**  
-`Python` `Pandas` `NumPy`
+
+`Python` `Pandas` `Scikit-learn` `NumPy` `Seaborn` `Matplotlib` `исследовательский анализ данных`
 
 ***
 
