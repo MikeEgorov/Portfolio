@@ -1,5 +1,5 @@
 ## "Прогноз температуры стали во время плавки"
-[`ipynb`](https://github.com/mike2023-ml/Portfolio/blob/44d34f3bbc5a931a8ee106600ead205a610a1eff/Gold%20recovery/Восстановление%20золота.ipynb)  
+[`ipynb`](https://github.com/mike2023-ml/Portfolio/blob/main/Melting%20point%20of%20steel/Melting%20point%20of%20steel.ipynb)  
 
 **Задачи проекта:**  
 *Прогнозирование температуры стали во время плавки.*
@@ -19,5 +19,5 @@
 
 **Если проект не открывается, его можно просмотреть по ссылке:**  
 
-[`nbviewer`](https://nbviewer.org/github/mike2023-ml/Portfolio/blob/main/Gold%20recovery/Восстановление%20золота.ipynb#Функция-для-вычисления-итоговой-sMAPE)    
+[`nbviewer`](https://nbviewer.org/github/mike2023-ml/Portfolio/blob/main/Melting%20point%20of%20steel/Melting%20point%20of%20steel.ipynb)    
 </div>
