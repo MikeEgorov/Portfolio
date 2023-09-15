@@ -19,7 +19,7 @@
 
 **Если проект не открывается, его можно просмотреть по ссылке:**  
 
-[`nbviewer`](https://nbviewer.org/github/mike2023-ml/Portfolio/blob/main/SPB%20realty/SPB%20realty.ipynb)    
+[`nbviewer`](https://nbviewer.org/github/mike2023-ml/Portfolio/blob/main/Tariff%20recommendation/Tariff%20recommendation.ipynb)    
 </div>
 
 
