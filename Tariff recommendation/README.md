@@ -1,5 +1,5 @@
 ## "Классификация клиентов телеком компании"
-[`ipynb`](https://github.com/mike2023-ml/Portfolio/blob/main/Tariff%20recommendation/Tariff%20recommendation.ipynb)  
+[`ipynb`](https://github.com/mike2023-ml/Portfolio/blob/main/Tariff%20recommendation/Tariff%20recommendations.ipynb)  
 
 **Задачи проекта:**  
 *На основе данных предложить клиенту тариф.*
