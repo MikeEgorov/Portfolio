@@ -6,10 +6,10 @@
 Улучшение качества рекомендаций музыкального сервиса путем точного определения и классификации каверов.
 
 😀 **Состав команды и роли:**  
-* Никифорова Юлия - PM
-* Прозоров Кирилл - DS
-* Куликова Екатерина - DS
-* Егоров Михаил - DS
+* Никифорова Юлия - PM &nbsp;&nbsp;&nbsp;(<img src="https://github.com/mike2023-ml/Portfolio/assets/116313032/d3f08c03-7dec-490e-ad39-75152295c4d5" title="Telegram" alt="Telegram" width="20" height="20"/>@Niki_for_Ova)
+* Прозоров Кирилл - DS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<img src="https://github.com/mike2023-ml/Portfolio/assets/116313032/d3f08c03-7dec-490e-ad39-75152295c4d5" title="Telegram" alt="Telegram" width="20" height="20"/>@prozorovpro)
+* Куликова Екатерина - DS &nbsp;(<img src="https://github.com/mike2023-ml/Portfolio/assets/116313032/d3f08c03-7dec-490e-ad39-75152295c4d5" title="Telegram" alt="Telegram" width="20" height="20"/>@EkaterinaTretia)
+* Егоров Михаил - DS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<img src="https://github.com/mike2023-ml/Portfolio/assets/116313032/d3f08c03-7dec-490e-ad39-75152295c4d5" title="Telegram" alt="Telegram" width="20" height="20"/>@mikenonstop)
 
 ***
 
@@ -37,6 +37,11 @@
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png" title="Scikit-learn" alt="Scikit-learn" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
 </div>
+
+
+
+
+<img src="https://github.com/mike2023-ml/Portfolio/assets/116313032/d3f08c03-7dec-490e-ad39-75152295c4d5" title="Telegram" alt="Telegram" width="20" height="20"/>&nbsp;
 
 ***
 
