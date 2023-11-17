@@ -2,25 +2,24 @@
 [`ipynb`](https://github.com/mike2023-ml/Portfolio/blob/main/Prediction%20of%20bank%20customer%20behaviour/test.ipynb)  
 
 **Project Tasks:**  
-*to predict whether the client will leave the bank in the near future or not.*
+*To predict whether the client will leave the bank in the near future or not.*
 
 ***
 
 **Project Description:**  
-*Для оптимизации производственных расходов металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Нам предстоит построить модель, которая предскажет температуру стали.*
+*Customers started leaving the bank. Bank marketers have calculated that it is cheaper to keep current clients than to attract new ones. It is necessary to predict whether the client will leave the bank in the near future or not. Historical data on customer behaviour and termination of contracts with the bank for three months is provided.*
 
 ***
 
 **Project Conclusions:**  
-*На основании имеющихся данных о производственных процессах построена модель (со значением метрики MAE, удовлетворяющей условиям задачи), которая предскажет температуру стали.  
-Исследованы по значимости признаки: наиболее важными для предсказания модели признаками являются 'start_temp', 'full_work', 'Wire 1', 'Bulk 14', 'total_time', наименее важными - 'Wire 7', 'Bulk 8', 'Bulk 9', 'Wire 4'.  
-Цель исследования достигнута.*
+*Based on the results of the data analysis, a model is built which helps to predict whether the client will leave the bank in the near future or not.
+The model has shown the result that is much better than the random one, the model can be applied.*
 
 ***
     
 **Skills and Tools:**  
 
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `исследовательский анализ данных`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Pipeline`
 
 ***
 
